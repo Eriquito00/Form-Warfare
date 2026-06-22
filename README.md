@@ -11,11 +11,11 @@
   - **Bomba**: Elimina a todos los enemigos en pantalla al activarse.
   - **Disparo**: Dispara una bala naranja de forma automatica cuando estas a cierta distancia del enemigo.
 
-![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/formwarfare.png)
+![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](./img/formwarfare.png)
 
 ---
 
 ## Tecnologías utilizadas
 
-![C# logo](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png)
-![Unity logo](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png)
+![C# logo](./img/c-sharp.png)
+![Unity logo](./img/unity.png)
